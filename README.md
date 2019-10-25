@@ -5,7 +5,7 @@ after running the install command.
 
 To reproduce:
 
-1. Checout this repo
+1. Checkout this repo
 2. Run `bundle install`
 3. Run `bundle exec pod install`
 
