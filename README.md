@@ -10,3 +10,5 @@ To reproduce:
 3. Run `bundle exec pod install`
 
 On my machine, no `Podfile.lock` is generated.
+
+![screenshot of my terminal not generating the lock file](./screenshot.png)
